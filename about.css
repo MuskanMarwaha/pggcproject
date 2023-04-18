@@ -1,0 +1,29 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.about{
+  text-align: center;
+  font-size: 30px;
+  background-color: #224548;
+  color: white;
+}
+.images{
+  margin-top: 20px;
+  display: block;
+  text-align: center;
+}
+.content {
+  text-align: center;
+  background-color: #224548 ;
+  color: white;
+  height: 22vh;
+  font-size: 25px;
+  margin-top: 20px;
+}
+.images img{
+  border: solid #224548;
+}
+.c{
+  text-align: center;
+}
